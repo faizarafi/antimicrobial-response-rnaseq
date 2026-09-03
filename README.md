@@ -71,7 +71,7 @@ These analyses were used to investigate biological processes and pathways associ
 
 ## Repository Contents
 
-- `dge_analysis.R`: R Markdown document containing the complete analysis workflow
+- `analysis.Rmd`: R Markdown document containing the complete analysis workflow
 - `report_ecoli_transcriptomics.pdf`: Written report documenting the analysis and results
 
 ## Data
